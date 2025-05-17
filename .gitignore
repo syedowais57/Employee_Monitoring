@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+*.zip
+
+# Large binaries
+*.dll
+*.pyd
+*.lib
+*.dat
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Models and logs
+*.csv
+*.pkl
+
+# System files
+.DS_Store
+*.pt
+
